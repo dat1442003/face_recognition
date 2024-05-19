@@ -12,3 +12,6 @@ Chạy giao diện chương trình
 * Bước 2: Để cài đặt thư viện cần thiết 'npm install'
 * Bước 3: Chạy câu lệnh để load sever 'python src/face_rec_flask.py'
 * Bước 4: 'npm start'
+
+Data
+https://drive.google.com/drive/folders/1bkQOV3atsbuyNfOkw49vQru2B93iepQO?usp=sharing
